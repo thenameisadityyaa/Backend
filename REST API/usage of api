@@ -1,0 +1,4 @@
+GET => server se data fetch karvana ho tab use krten hai
+POST=> server pr data send krna ho
+PATCH => server pr data already hai aur us data ko update krna
+DELETE => server pr data hai use delete krna
