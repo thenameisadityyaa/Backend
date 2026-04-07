@@ -1,0 +1,7 @@
+Workflow of the backend.
+
+npm init - y    => initialize the server
+
+npm i express   => intallation of the express
+
+node server => running the server
