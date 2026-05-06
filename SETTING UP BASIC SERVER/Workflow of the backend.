@@ -5,3 +5,8 @@ npm init - y    => initialize the server
 npm i express   => intallation of the express
 
 node server => running the server
+
+npx nodemon server.js   => run on nodemon.
+
+
+npm i mongoose => to install the mongoose to connect the server with mongodb database.
